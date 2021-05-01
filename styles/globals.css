@@ -43,3 +43,6 @@ footer {
 .not-found a {
   color: #4979ff;
 }
+img {
+  cursor: pointer;
+}
